@@ -1,0 +1,7 @@
+{
+  "name": "codQR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
